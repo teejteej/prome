@@ -54,5 +54,5 @@ module Prome
   end
 end
 
-Prome::Rails.install!
-Prome::Sidekiq.install!
+# Prome::Rails.install!
+# Prome::Sidekiq.install!
